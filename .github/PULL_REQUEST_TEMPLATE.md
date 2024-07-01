@@ -1,13 +1,16 @@
 # Descrição
+
 Refatorei o código para melhorar a legibilidade e organização.
 Simplifiquei a verificação de vencedor.
 Tratei entradas inválidas.
 Atualizei a pontuação e salvei em arquivo.
 
 ## Ajustes
-<img width="730" alt="image" src="../img/CriarTabuleiro.JPG">
+
+<img width="730" alt="image" src="../img/CriarTabuleiro1.JPG">
 
 ## Implementa
+
 -Função criar_tabuleiro():
 Utiliza list comprehension para criar um tabuleiro vazio.
 
@@ -27,12 +30,11 @@ Usa JSON para salvar e carregar a pontuação em um arquivo chamado “pontuacao
 -Organização do fluxo do jogo:
 Permite jogar novamente após o término da partida.
 
-
 ## Tipo de mudança (marcar as alternativas que se encaixam)
+
 - [x] Nova Funcionalidade: Refatorei o código para melhorar a legibilidade e organização, além de adicionar tratamento de entrada inválida e atualização da pontuação.Implementei uma nova funcionalidade
 - [x] Correção de bug: Corrigi um bug na pontuação que quando tinha um espaçamento fazia dar erro no código
 - [x] Melhoria de código: Melhorei a qualidade do código
-
 
 Checklist:
 [x] Organização do Código:

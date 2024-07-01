@@ -7,7 +7,7 @@ Atualizei a pontuação e salvei em arquivo.
 
 ## Ajustes
 
-<img width="730" alt="image" src="../img/DefTabuleiro.jgp">
+<img width="730" alt="image" src="../img/DefTabuleiro.jpg">
 
 ## Implementa
 

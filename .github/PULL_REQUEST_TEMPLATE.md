@@ -4,6 +4,9 @@ Simplifiquei a verificação de vencedor.
 Tratei entradas inválidas.
 Atualizei a pontuação e salvei em arquivo.
 
+## Ajustes
+<img width="730" alt="image" src="../img/CriarTabuleiro.JPG">
+
 ## Implementa
 -Função criar_tabuleiro():
 Utiliza list comprehension para criar um tabuleiro vazio.

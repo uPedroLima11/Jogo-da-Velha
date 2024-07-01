@@ -8,6 +8,14 @@ Atualizei a pontuação e salvei em arquivo.
 ## Ajustes
 
 <img width="730" alt="image" src="../img/DefTabuleiro.jpg">
+A versão original criava o tabuleiro usando um loop “for” e aninhava outro loop “for” dentro dele para preencher cada linha
+com espaços vazios.
+A versão refatorada utiliza uma única linha de código com "list comprehension", tornando o processo mais conciso e fácil de
+entender.
+
+<img width="730" alt="image" src="../img/VerificarVencedor.png">
+
+a versão depois utiliza a função all() para verificar todas as casas em uma linha ou coluna, o que melhora a legibilidade e reduz a redundância.
 
 ## Implementa
 
